@@ -247,4 +247,4 @@ This repository serves as the official landing page for Psiphon. The software is
 **Get the most recent version of Psiphon today!**
 
 ---
-**Last updated:** 2026-10-20 14:49:07 UTC
+**Last updated:** 2026-10-20 19:02:33 UTC
